@@ -23,7 +23,10 @@ body{
 }
 .card-footer{
     text-align: center;
+    background-color: rgba(50, 50, 219, 0.911);
 }
-
+.card-footer i {
+    color:white;
+}
 
 
