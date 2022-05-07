@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/763/122/408/deep-space-4k-wallpaper-preview.jpg);
+    background-size: cover;
+}
+.nav{
+    display: flex;
+    padding-left: 50%;
+}
+.nav-link{
+    text-align: center;
+    color: red !important;
+}
+.Foto{
+    text-align: center;
+}
+.Datos{
+    text-align: center;
+    color: white;
+}
+.Titulo{
+    text-align: center;
+    color: white;
+}
+.card-footer{
+    text-align: center;
+}
+
+
+
